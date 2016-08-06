@@ -1,0 +1,29 @@
+_repo: Your-Child--Today-and-Tomorrow--13-Some-Problems-for-Parents-Concerning-Punishment-Reasoning-L__9917
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gruenberg, Sidonie Matsner
+    aliases:
+    - Grunberg, Sidoni M.
+    - Gruenberg, Sidonie Matzner
+    birthdate: 1881
+    deathdate: 1974
+    gutenberg_agent_id: '3202'
+    url: http://www.gutenberg.org/2009/agents/3202
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Children'
+- GITenberg
+title: "Your Child: Today and Tomorrow\r\nSome Problems for Parents Concerning Punishment,\
+  \ Reasoning, Lies, Ideals and Ambitions, Fear, Work and Play, Imagination, Social\
+  \ Activities, Obedience, Adolescence, Will, Heredity"
+url: http://www.gutenberg.org/ebooks/9917
